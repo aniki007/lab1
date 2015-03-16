@@ -1,0 +1,70 @@
+c:\users\administrator.win-i4cr061gmdc\documents\visual studio 2012\Projects\student-teacher\student-teacher\bin\Debug\student-teacher.exe.config
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\bin\Debug\student-teacher.exe
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\bin\Debug\student-teacher.pdb
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student-teacher.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.Properties.Resources.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student-teacher.csproj.GenerateResource.Cache
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student-teacher.exe
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student-teacher.pdb
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\bin\Debug\MySql.Data.dll
+E:\数据库\student-teacher\student-teacher\bin\Debug\student-teacher.exe.config
+E:\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.exe
+E:\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.pdb
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.login.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.stulo.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.notciget.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.stutable.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.tealo.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.getmes.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.sendmes.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.noticese.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.teatable.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.change.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.infor.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.success.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.fail.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.abc.resources
+C:\Users\Administrator.WIN-I4CR061GMDC\Documents\Visual Studio 2012\Projects\student-teacher\student-teacher\obj\Debug\student_teacher.cba.resources
+E:\数据库\student-teacher\student-teacher\bin\Debug\student-teacher.exe
+E:\数据库\student-teacher\student-teacher\bin\Debug\student-teacher.pdb
+E:\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.csprojResolveAssemblyReference.cache
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.abc.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.cba.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.change.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.infor.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.login.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.stulo.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.notciget.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.stutable.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.tealo.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.teatable.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.getmes.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.sendmes.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.noticese.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.success.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.fail.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.Properties.Resources.resources
+E:\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.csproj.GenerateResource.Cache
+E:\大二下\数据库\student-teacher\student-teacher\bin\Debug\student-teacher.exe.config
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.exe
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.pdb
+E:\大二下\数据库\student-teacher\student-teacher\bin\Debug\student-teacher.exe
+E:\大二下\数据库\student-teacher\student-teacher\bin\Debug\student-teacher.pdb
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.csprojResolveAssemblyReference.cache
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.abc.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.cba.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.change.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.infor.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.login.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.stulo.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.notciget.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.stutable.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.tealo.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.teatable.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.getmes.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.sendmes.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.noticese.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.success.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.fail.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student_teacher.Properties.Resources.resources
+E:\大二下\数据库\student-teacher\student-teacher\obj\Debug\student-teacher.csproj.GenerateResource.Cache
